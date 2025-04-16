@@ -60,4 +60,4 @@ Contributions are welcome! If you have suggestions for improving the code, addin
 5. Open a pull request.
 
 ## Credits
-These all codes belongs @apnacollege.
+Learned from @apnacollege.
