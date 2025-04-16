@@ -42,12 +42,12 @@ To compile and run the programs in this repository, you need:
    ```
 
 ### Key OOP Concepts Covered
--**Encapsulation:** Bundling data and methods into a class, with access control using private/public modifiers [encapsulation.cpp].
--**Abstraction:** Hiding unnecessary details using abstract classes and pure virtual functions [abstraction.cpp].
--**Inheritance:** Passing properties and methods from a base class to a derived class, with different modes and types [inheritance.cpp].
--**Polymorphism:** Implementing compile-time (constructor overloading) and runtime (virtual functions) polymorphism [polymorphism.cpp].
--**Constructors and Destructors:** Initializing objects with constructors and cleaning up with destructors [constructor.cpp,] [destructor.cpp].
--**Shallow vs. Deep Copy:** Managing dynamic memory during object copying [shallow&deepCopy.cpp].
+- **Encapsulation:** Bundling data and methods into a class, with access control using private/public modifiers [encapsulation.cpp].
+- **Abstraction:** Hiding unnecessary details using abstract classes and pure virtual functions [abstraction.cpp].
+- **Inheritance:** Passing properties and methods from a base class to a derived class, with different modes and types [inheritance.cpp].
+- **Polymorphism:** Implementing compile-time (constructor overloading) and runtime (virtual functions) polymorphism [polymorphism.cpp].
+- **Constructors and Destructors:** Initializing objects with constructors and cleaning up with destructors [constructor.cpp,] [destructor.cpp].
+- **Shallow vs. Deep Copy:** Managing dynamic memory during object copying [shallow&deepCopy.cpp].
 Static Keyword: Using static for variables and objects to control lifetime and scope [staticKeyword.cpp].   
 
 ## Contributing
@@ -59,3 +59,5 @@ Contributions are welcome! If you have suggestions for improving the code, addin
 4. Push to the branch (git push origin feature-branch).
 5. Open a pull request.
 
+## Credits
+Created by @apnacollege.
